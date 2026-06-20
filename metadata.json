@@ -1,0 +1,6 @@
+{
+  "name": "Serpiente Hipnótica TikTok Live",
+  "description": "Juego de serpiente ultra-optimizado para streaming en TikTok Live, con algoritmos de pathfinding perfectos, simulación de interacción de público, y skins visuales hipnóticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
